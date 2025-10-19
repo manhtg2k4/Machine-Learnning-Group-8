@@ -1,0 +1,19 @@
+# Streamlit
+streamlit==1.38.0
+
+# Torch + torchvision tương thích Python 3.13
+torch==2.9.0
+torchvision==0.24.0
+
+# CLIP OpenAI
+git+https://github.com/openai/CLIP.git
+
+# Xử lý ảnh / text
+ftfy
+regex
+Pillow
+numpy>=1.26,<1.27
+matplotlib
+tqdm
+opencv-python-headless
+tensorflow
